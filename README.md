@@ -181,8 +181,8 @@ python manage.py shell
 rm db.sqlite3
 python manage.py migrate
 
-# Load sample data (if fixtures are available)
-python manage.py loaddata fixture_name.json
+# Start fresh with empty database - you'll need to create a new superuser
+python manage.py createsuperuser
 ```
 
 ## Dependencies
@@ -242,5 +242,8 @@ For production deployment:
 
 ## License
 
-MIT License
+[Add your license information here]
 
+## Support
+
+[Add contact information or support channels here]
