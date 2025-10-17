@@ -242,8 +242,9 @@ For production deployment:
 
 ## License
 
-[Add your license information here]
+MIT License 
 
 ## Support
 
-[Add contact information or support channels here]
+For questions or support, please open an [issue](../../issues).
+
